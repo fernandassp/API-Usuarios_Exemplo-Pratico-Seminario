@@ -28,6 +28,17 @@ Antes de rodar o projeto, você precisa ter instalado:
 ### Executar o projeto
 Para rodar o projeto, use o comando: node app.js
 
+## Collection do Postman
+
+O projeto inclui uma collection do Postman para facilitar os testes da API.
+
+### Como usar:
+1. Abra o Postman
+2. Clique em "Import"
+3. Selecione o arquivo:
+   `postman/Ex. pratico seminario DAD.postman_collection.json`
+4. Execute as requisições disponíveis
+
 ## Endpoints da API
 - Listar usuários: GET /usuarios/listar
 - Criar usuário: POST /usuarios  
