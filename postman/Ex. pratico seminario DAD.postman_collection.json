@@ -30,7 +30,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n    \"nome\": \"Ana\",\r\n    \"idade\": \"23\",\r\n    \"telefone\": 984510326\r\n}",
+          "raw": "{\r\n    \"nome\": \"Ana\",\r\n    \"idade\": 23,\r\n    \"telefone\": 984510326\r\n}",
           "options": {
             "raw": {
               "language": "json"
