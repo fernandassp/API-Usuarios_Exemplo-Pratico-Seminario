@@ -32,7 +32,6 @@ Para rodar o projeto, use o comando: node app.js
 
 O projeto inclui uma collection do Postman para facilitar os testes da API.
 
-### Como usar:
 1. Abra o Postman
 2. Clique em "Import"
 3. Selecione o arquivo:
